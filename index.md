@@ -10,58 +10,50 @@
 
 # About Shooots 
 
-Struggling with finding a ride to school? Tired of riding the bus to school? Well the solution is here, the **__shooots__** app. An app dedicated to making commuting to school for students easier and faster. Create a profile and filter through fellow students that are nearby, either needing a ride or willing to give a ride. As a driver or rider, schedule your availability and you are on your way to a better commuting experience. The ratings system is provided for both drivers and riders so that you know which driver/rider is the best for you and the best overall each month.
+Struggling with finding a ride to school? Tired of riding the bus to school? Well the solution is here, the **_shooots_** app. An app dedicated to making commuting to school for students easier and faster. Create a profile and filter through fellow students that are nearby, either needing a ride or willing to give a ride. As a driver or rider, schedule your availability and you are on your way to a better commuting experience. The ratings system is provided for both drivers and riders so that you know which driver/rider is the best for you and the best overall each month.
 
 # Application Design
 
 ## Directory structure
 
-The top-level directory structure contains:
-
+The top-level directory contains:
 ```
-app/        # holds the Meteor application sources
-config/     # holds configuration files, such as settings.development.json
-.gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
+app/          # Holds the Meteor application sources
+config/       #
+.gitignore    # Describes files to not commit (i.e. IntelliJ project files, node_modules, and settings.production.json)
 ```
 
-This structure separates configuration files (such as the settings files) in the config/ directory from the actual Meteor application in the app/ directory.
-
-The app/ directory has this top-level structure:
-
+The app/ directory's top-level directory structure contains:
 ```
 client/
-  lib/           # holds Semantic UI files.
-  head.html      # the <head>
-  main.js        # import all the client-side html and js files. 
-
+     lib/
+     head.html
+     main.js
 imports/
-  api/           # Define collection processing code (client + server side)
-    base/
-    interest/
-    profile/
-  startup/       # Define code to run when system starts up (client-only, server-only)
-    client/        
-    server/        
-  ui/
-    components/  # templates that appear inside a page template.
-    layouts/     # Layouts contain common elements to all pages (i.e. menubar and footer)
-    pages/       # Pages are navigated to by FlowRouter routes.
-    stylesheets/ # CSS customizations, if any.
-
-node_modules/    # managed by Meteor
-
+     api/
+          base/
+          interest/
+          profile/
+     startup/
+          client/
+          server/
+     ui/
+          components/
+          layouts/
+          pages/
+          stylesheets/
+node_modules/
 private/
-  database/      # holds the JSON file used to initialize the database on startup.
-
-public/          
-  images/        # holds static images for landing page and predefined sample users.
-  
+     database/
+public/
+     images/
 server/
-   main.js       # import all the server-side js files.
+     main.js
+```
 
-The development process for **__shooots__** used **Issue Drivem Prpject Management** pactices.
+The development process for **_shooots_** used **Issue Drivem Prpject Management** pactices.
 
-The following subsections detail the development history of **__shooots__**.
+The following subsections detail the development history of **_shooots_**.
 
 ### Milestone 1: Mockup development
 
