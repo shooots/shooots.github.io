@@ -1,4 +1,4 @@
-# Table of contents
+### Table of contents
 
 * [About Shooots](#about-shooots)
 * [Application design](#application-design)
@@ -8,12 +8,12 @@
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
   
 
-# About Shooots 
+### About Shooots 
 
-Struggling with finding a ride to school? Tired of riding the bus to school? Well the solution is here, the shooots app. An app dedicated to making students commutes to school easier and faster. Create a profile and filter through fellow students that are nearby that need a ride or are willing to give a ride. As a driver or rider, schdeule your availability and your on your way. Ratings system will be provided for both drivers and riders and the best would be chosen each month to be displayed on our homepage. 
+Struggling with finding a ride to school? Tired of riding the bus to school? Well the solution is here, the shooots app. An app dedicated to making commuting to school for students easier and faster. Create a profile and filter through fellow students that are nearby, either needing a ride or willing to give a ride. As a driver or rider, schedule your availability and you are on your way to a better commuting experience. The ratings system is provided for both drivers and riders so that you know which driver/rider is the best for you and the best overall each month.
 
-# Application Design
-
+### Application Design
+Directory structure
 
 
 ## Milestone 1: Mockup development
