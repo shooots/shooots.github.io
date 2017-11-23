@@ -5,7 +5,7 @@
 
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  /* * [Milestone 2: Data model development](#milestone-2-data-model-development)*/
+  /* [Milestone 2: Data model development](#milestone-2-data-model-development)*/
   
 
 # About Shooots 
@@ -69,30 +69,31 @@ Mockups for the following four pages were implemented during M1:
 <img width="200px" src="images/landing-page(4).png"/>
 <img width="200px" src="images/landing-page(5).png"/>
 <img width="200px" src="images/landing-page(6).png"/>
+
 <img src="images/home-page.png"/>
+
 <img src="images/update-profile-m1.png"/>
+
 <img src="images/filter-page.JPG"/>
+
 <img src="images/schedule-page.png"/>
+
 <img src="images/rating-page.JPG"/>
 
 
-Milestone 1 was implemented as [BowFolio GitHub Milestone M1](https://github.com/bowfolios/bowfolios/milestone/1)::
+Milestone 1 was implemented as [shooots GitHub Milestone M1](https://github.com/shooots/shooots/milestone/1)
 
-![](images/m1-milestone.png)
+/*![](images/m1-milestone.png)*/
 
+Milestone 1 consisted of eight issues, and progress was managed via the [shooots GitHub Project M1](https://github.com/shooots/shooots/projects/1):
 
-Milestone 1 consisted of five issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/bowfolios/bowfolios/projects/1):
-
-![](images/m1-project.png)
+/*![](images/m1-project.png)*/
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![](images/m1-branch-graph.png)
+/*![](images/m1-branch-graph.png)*/
 
-### Milestone 2
-
-
-
+/*### Milestone 2*/
 
 
 
