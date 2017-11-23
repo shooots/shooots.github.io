@@ -5,7 +5,7 @@
 
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: Data model development](#milestone-2-data-model-development)
+  /* * [Milestone 2: Data model development](#milestone-2-data-model-development)*/
   
 
 # About Shooots 
@@ -14,7 +14,7 @@ Struggling with finding a ride to school? Tired of riding the bus to school? Wel
 
 # Application Design
 
-## Directory structure
+### Directory structure
 
 The top-level directory contains:
 ```
@@ -51,7 +51,9 @@ server/
      main.js
 ```
 
-The development process for **_shooots_** used **Issue Drivem Prpject Management** pactices.
+# Development History
+
+The development process for **_shooots_** used **Issue Driven Project Management** practices.
 
 The following subsections detail the development history of **_shooots_**.
 
@@ -61,7 +63,8 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Mockups for the following four pages were implemented during M1:
 
-<img width="200px" src="images/landing-page.png"/> <img width="200px" src="images/landing-page(2).png"/>
+<img width="200px" src="images/landing-page.png"/> 
+<img width="200px" src="images/landing-page(2).png"/>
 <img width="200px" src="images/landing-page(3).png"/>
 <img width="200px" src="images/landing-page(4).png"/>
 <img width="200px" src="images/landing-page(5).png"/>
