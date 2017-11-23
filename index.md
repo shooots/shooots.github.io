@@ -6,15 +6,11 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
-  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
-  * [Milestone 4: Authentication](#milestone-4-authentication)
-  * [Milestone 5: Administration](#milestone-5-administration)
-* [Walkthrough videos](#walkthrough-videos)
-* [JSDocs](/jsdocs)
+  
 
 # About Shooots 
 
-
+Struggling with finding a ride to school? Tired of riding the bus to school? Well the solution is here, the shooots app. An app dedicated to making students commutes to school easier and faster. Once you create your own profile, schedule your availability as a driver or rider, you'll be able to filter through fellow students that are nearby your destination. 
 
 # Application Design
 
@@ -22,7 +18,6 @@
 
 ## Milestone 1: Mockup development
 
-This milestone started on December 6, 2016 and ended on January 31, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
