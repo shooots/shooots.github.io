@@ -63,7 +63,12 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Mockups for the following four pages were implemented during M1:
 
-<img width="300px" src="images/landing-page.png"/>
+<img width: "200px" src="images/landing-page.png"/>
+<img width: "200px" src="images/landing-page(2).png"/>
+<img width: "200px" src="images/landing-page(3).png"/>
+<img width: "200px" src="images/landing-page(4).png"/>
+<img width: "200px" src="images/landing-page(5).png"/>
+<img width: "200px" src="images/landing-page(6).png"/>
 <img src="images/home-page.png"/>
 <img src="images/update-profile-m1.png"/>
 <img src="images/filter-page.JPG"/>
