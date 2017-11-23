@@ -27,6 +27,7 @@ Mockups for the following four pages were implemented during M1:
 <img src="images/home-page.png"/>
 <img src="images/update-profile-m1.png"/>
 <img src="images/filter-page.JPG"/>
+<img src="images/schedule-page.png"/>
 <img src="images/rating-page.JPG"/>
 
 
