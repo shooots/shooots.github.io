@@ -14,43 +14,6 @@ Struggling with finding a ride to school? Tired of riding the bus to school? Wel
 
 # Application Design
 
-### Directory Structure
-
-The top-level directory contains:
-```
-app/          # Holds the Meteor application sources
-config/       #
-.gitignore    # Describes files to not commit (i.e. IntelliJ project files, node_modules, and settings.production.json)
-```
-
-The app/ directory's top-level directory structure contains:
-```
-client/
-     lib/
-     head.html
-     main.js
-imports/
-     api/
-          base/
-          interest/
-          profile/
-     startup/
-          client/
-          server/
-     ui/
-          components/
-          layouts/
-          pages/
-          stylesheets/
-node_modules/
-private/
-     database/
-public/
-     images/
-server/
-     main.js
-```
-
 # Development History
 
 The development process for **__shooots__** used **Issue Drivem Prpject Management** pactices.
