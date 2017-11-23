@@ -14,7 +14,50 @@ Struggling with finding a ride to school? Tired of riding the bus to school? Wel
 
 # Application Design
 
-# Development History
+## Directory structure
+
+The top-level directory structure contains:
+
+```
+app/        # holds the Meteor application sources
+config/     # holds configuration files, such as settings.development.json
+.gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
+```
+
+This structure separates configuration files (such as the settings files) in the config/ directory from the actual Meteor application in the app/ directory.
+
+The app/ directory has this top-level structure:
+
+```
+client/
+  lib/           # holds Semantic UI files.
+  head.html      # the <head>
+  main.js        # import all the client-side html and js files. 
+
+imports/
+  api/           # Define collection processing code (client + server side)
+    base/
+    interest/
+    profile/
+  startup/       # Define code to run when system starts up (client-only, server-only)
+    client/        
+    server/        
+  ui/
+    components/  # templates that appear inside a page template.
+    layouts/     # Layouts contain common elements to all pages (i.e. menubar and footer)
+    pages/       # Pages are navigated to by FlowRouter routes.
+    stylesheets/ # CSS customizations, if any.
+
+node_modules/    # managed by Meteor
+
+private/
+  database/      # holds the JSON file used to initialize the database on startup.
+
+public/          
+  images/        # holds static images for landing page and predefined sample users.
+  
+server/
+   main.js       # import all the server-side js files.
 
 The development process for **__shooots__** used **Issue Drivem Prpject Management** pactices.
 
@@ -26,11 +69,11 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Mockups for the following four pages were implemented during M1:
 
-<img width="300px" src="images/landing-page.png"/> <img width="300px" src="images/landing-page(2).png"/>
-<img width="300px" src="images/landing-page(3).png"/>
-<img width="300px" src="images/landing-page(4).png"/>
-<img width="300px" src="images/landing-page(5).png"/>
-<img width="300px" src="images/landing-page(6).png"/>
+<img width="200px" src="images/landing-page.png"/> <img width="200px" src="images/landing-page(2).png"/>
+<img width="200px" src="images/landing-page(3).png"/>
+<img width="200px" src="images/landing-page(4).png"/>
+<img width="200px" src="images/landing-page(5).png"/>
+<img width="200px" src="images/landing-page(6).png"/>
 <img src="images/home-page.png"/>
 <img src="images/update-profile-m1.png"/>
 <img src="images/filter-page.JPG"/>
