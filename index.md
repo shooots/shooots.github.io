@@ -2,7 +2,6 @@
 
 * [About Shooots](#about-shooots)
 * [Application design](#application-design)
-
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   /* [Milestone 2: Data model development](#milestone-2-data-model-development)*/
@@ -83,17 +82,17 @@ Mockups for the following four pages were implemented during M1:
 
 Milestone 1 was implemented as [shooots GitHub Milestone M1](https://github.com/shooots/shooots/milestone/1)
 
-/*![](images/m1-milestone.png)*/
+\*![](images/m1-milestone.png)\*
 
 Milestone 1 consisted of eight issues, and progress was managed via the [shooots GitHub Project M1](https://github.com/shooots/shooots/projects/1):
 
-/*![](images/m1-project.png)*/
+\*![](images/m1-project.png)\*
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-/*![](images/m1-branch-graph.png)*/
+\*![](images/m1-branch-graph.png)\*
 
-/*### Milestone 2*/
+\*### Milestone 2\*
 
 
 
