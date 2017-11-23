@@ -10,7 +10,7 @@
 
 # About Shooots 
 
-Struggling with finding a ride to school? Tired of riding the bus to school? Well the solution is here, the shooots app. An app dedicated to making students commutes to school easier and faster. Once you create your own profile, schedule your availability as a driver or rider, you'll be able to filter through fellow students that are nearby your destination. 
+Struggling with finding a ride to school? Tired of riding the bus to school? Well the solution is here, the shooots app. An app dedicated to making students commutes to school easier and faster. Create a profile and filter through fellow students that are around your area. You can either decide to be a driver or a rider, schdeule your availability and your on your way. Ratings system will be provided for both drivers and riders and the best would be chosen each month to be displayed on our homepage. 
 
 # Application Design
 
