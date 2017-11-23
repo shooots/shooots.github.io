@@ -4,7 +4,6 @@
 * [Application design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  /* [Milestone 2: Data model development](#milestone-2-data-model-development)*/
   
 
 # About Shooots 
@@ -17,37 +16,37 @@ Struggling with finding a ride to school? Tired of riding the bus to school? Wel
 
 The top-level directory contains:
 ```
-app/          # Holds the Meteor application sources
-config/       #
-.gitignore    # Describes files to not commit (i.e. IntelliJ project files, node_modules, and settings.production.json)
+app/                         # Holds the Meteor application sources
+config/                      # Holds configuration files (i.e. settings.development.json)
+.gitignore                   # Describes files to not commit (i.e. IntelliJ project files, node_modules, and settings.production.json)
 ```
 
 The app/ directory's top-level directory structure contains:
 ```
 client/
-     lib/
-     head.html
-     main.js
+     lib/                    # Holds Semantic UI files
+     head.html               # 
+     main.js                 # Import all the client-side html and js files
 imports/
-     api/
+     api/                    # Define collection processing code (client + server side)
           base/
           interest/
           profile/
-     startup/
+     startup/                # Define code to run when system starts up for client-only and server-only
           client/
           server/
      ui/
-          components/
-          layouts/
-          pages/
-          stylesheets/
-node_modules/
+          components/        # Templates that appear inside a page template
+          layouts/           # Layouts containing common elements to all pages (i.e. menubar and footer)
+          pages/             # Pages are navigated to by FlowRouter routes
+          stylesheets/       # CSS customizations, if any
+node_modules/                # Managed by Meteor
 private/
-     database/
+     database/               # Holds the JSON file used to initialize the database on startup and to deploy
 public/
-     images/
+     images/                 # Holds static images
 server/
-     main.js
+     main.js                 # Imports all the server-side js files
 ```
 
 # Development History
@@ -82,17 +81,17 @@ Mockups for the following four pages were implemented during M1:
 
 Milestone 1 was implemented as [shooots GitHub Milestone M1](https://github.com/shooots/shooots/milestone/1)
 
-\*![](images/m1-milestone.png)\*
+![](images/m1-milestone.png)
 
 Milestone 1 consisted of eight issues, and progress was managed via the [shooots GitHub Project M1](https://github.com/shooots/shooots/projects/1):
 
-\*![](images/m1-project.png)\*
+![](images/m1-project.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-\*![](images/m1-branch-graph.png)\*
+![](images/m1-branch-graph.png)
 
-\*### Milestone 2\*
+### Milestone 2
 
 
 
