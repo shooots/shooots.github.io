@@ -67,7 +67,7 @@ Mockups for the following four pages were implemented during M1:
 <img width="200px" src="images/landing-page(4).png"/>
 <img width="200px" src="images/landing-page(5).png"/>
 
-<img src="images/home-page.png"/>
+<img src="images/Home-page.png"/>
 
 <img src="images/update-profile-m1.png"/>
 
