@@ -1,5 +1,4 @@
-
-<a href=shooots.meteorapp.com>Our app</a>
+[Check it out](https://shooots.meteorapp.com)
 # Table of contents
 
 * [About Shooots](#about-shooots)
