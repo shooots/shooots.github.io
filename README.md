@@ -1,1 +1,1 @@
-# shooots.github.io
+# shooots.meteorapp.com
