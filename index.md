@@ -1,4 +1,4 @@
-[Check it out](https://shooots.meteorapp.com)
+[shooots.meteorapp.com](https://shooots.meteorapp.com)
 # Table of contents
 
 * [About Shooots](#about-shooots)
