@@ -93,9 +93,11 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ### Milestone 2
 
-The goal of Milestone 2 was to have a fully functional application. Users are now able to update their profile when deciding whether to be a driver or a rider. As a rider, users may now filter through drivers that are avaliable in by filtering to spectifc time slot. Once the rider clicks "schedule" on their preferred driver, a notification is then sent to the driver. A notification on the riders home page will show whether or not the driver has confirmed the appointment. 
+The goal of Milestone 2 was to have a fully functional application. Users are now able to update their profile when deciding whether to be a driver or a rider. As a rider, users may now filter through drivers that are avaliable, by filtering to a  spectifc time. Once the rider clicks "schedule" on their preferred driver, a notification is then sent to the driver. A notification on the riders home page will show whether or not the driver has confirmed the appointment.  
 
-As a driver, users are able to schedule their date, location, and time that they are headed to school. Once they list their information, their profile is now shown on the filter page. If a rider schedules the user as their designated driver, the user will get a pop up notfication on whether to accept the appointmet or not. Once done, a scheduled appointement card will show up on the driver's homepage, reminding the driver about the appointment. 
+As a driver, users are able to schedule their date, location, and time that they are headed to school. Once they list their information, their profile is now shown on the filter page. If a rider schedules the user as their designated driver, the user will get a pop up notfication on whether to accept the appointmet or not.
+
+ Once the driver accepts the appointment, a scheduled appointement card will show up on the driver's/rider's homepage, reminding them about the appointment. 
 
 
 
