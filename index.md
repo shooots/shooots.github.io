@@ -125,8 +125,10 @@ As a driver, users are able to schedule their date, location, and time that they
 ### FeedBack
 
 J.H
- - "Cool app, can see using this in the future."
- - "A little more color will be nice."
+-I like how simple it is
+-If this was a mobile app, it is something I would use
+-Scheduling a ride was easy to do
+-It looks like a real working website from a company
  
 C.B
  - "This will be very useful for people that live on the other side of the island."
