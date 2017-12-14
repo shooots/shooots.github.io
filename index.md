@@ -5,7 +5,9 @@
 * [Application design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: functionality](#milestone-2-functionality)
+  * [Milestone 2: Functionality](#milestone-2-functionality)
+  * [FeedBack](#FeedBack)
+
 
   
 
@@ -93,7 +95,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/m1-branch-graph.png)
 
-### Milestone 2
+### Milestone 2: Functionality
 
 The goal of Milestone 2 was to have a fully functional application. Users are now able to update their profile when deciding whether to be a driver or a rider. As a rider, users may now filter through drivers that are avaliable, by filtering to a  spectifc time. Once the rider clicks "schedule" on their preferred driver, a notification is then sent to the driver. A notification on the riders home page will show whether or not the driver has confirmed the appointment.  
 
@@ -120,8 +122,28 @@ As a driver, users are able to schedule their date, location, and time that they
 <img src="images/"/>
 
 
+### FeedBack
 
-
-
-
-
+J.H
+ - "Cool app, can see using this in the future."
+ - "A little more color will be nice."
+ 
+C.B
+ - "This will be very useful for people that live on the other side of the island."
+ - "I like the notification options on the home page."
+ - "I like the pictures on the landing page."
+ 
+M.C
+ - "Wow, this is perfect for people that hate taking the bus to school."
+ - "I will totally use this."
+ - "I wonder if it'll be hard to get drivers on the platform."
+ 
+J.C
+ - "Cool, but I probably won't use it, I don't live too far."
+ - "The black and white color scheme is kind of boring, just a little bit."
+ - "Do riders have to give gas money?."
+ 
+L.W.
+ - "This could totally be useful right now!."
+ - "Perfect, now I don't have to wait for the bus."
+ - "Kind of sketchy riding with strangers."
