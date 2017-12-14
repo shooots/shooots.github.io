@@ -105,11 +105,11 @@ As a driver, users are able to schedule their date, location, and time that they
 
 
 
-<img width="200px" src="images/"/> 
-<img width="200px" src="images/"/>
-<img width="200px" src="images/"/>
-<img width="200px" src="images/"/>
-<img width="200px" src="images/"/>
+<img width="200px" src="images/landing-page(1)-m2.png"/> 
+<img width="200px" src="images/landing-page(2)-m2.png"/>
+<img width="200px" src="images/landing-page(3)-m2.png"/>
+<img width="200px" src="images/landing-page(4)-m2.png"/>
+<img width="200px" src="images/landing-page(5)-m2.png"/>
 
 <img src="images/"/>
 
