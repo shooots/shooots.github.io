@@ -111,15 +111,14 @@ As a driver, users are able to schedule their date, location, and time that they
 <img width="200px" src="images/landing-page(4)-m2.png"/>
 <img width="200px" src="images/landing-page(5)-m2.png"/>
 
-<img src="images/"/>
+<img src="images/profile-page-m2.png"/>
 
-<img src="images/"/>
+<img src="images/home-page-m2.png"/>
 
-<img src="images/"/>
+<img src="images/schedule-page-m2.png"/>
 
-<img src="images/"/>
+<img src="images/fliter-page-m2.png"/>
 
-<img src="images/"/>
 
 
 ### FeedBack
