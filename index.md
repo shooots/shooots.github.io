@@ -1,6 +1,6 @@
-[shooots.meteorapp.com](https://shooots.meteorapp.com)
 # Table of contents
 
+* [Link to the Shooots website](https://shooots.meteorapp.com)
 * [About Shooots](#about-shooots)
 * [Application design](#application-design)
 * [Development history](#development-history)
